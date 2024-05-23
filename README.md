@@ -11,7 +11,8 @@ I'd like to share my experience in adopting the current .NET 8 standard. I've wo
 - Moq (https://www.nuget.org/packages/Moq/)
 - Respawn (https://github.com/jbogard/Respawn)
 You can explore the code and libraries for reference and understanding purposes.
-- Note: When delving into Blazor, pay attention to and thoroughly understand the Render modes, as they are quite versatile depending on usage, whether for client-side, server-side, or combined purposes.
+# Note: 
+- When delving into Blazor, pay attention to and thoroughly understand the Render modes, as they are quite versatile depending on usage, whether for client-side, server-side, or combined purposes.
 - Details can be found here: https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0
 - For more in-depth knowledge, refer to this YouTube link: https://www.youtube.com/watch?v=YwZdtLEtROA
 ## 1. I've established a base code template, handling:
