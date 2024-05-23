@@ -14,16 +14,16 @@ You can explore the code and libraries for reference and understanding purposes.
 - Note: When delving into Blazor, pay attention to and thoroughly understand the Render modes, as they are quite versatile depending on usage, whether for client-side, server-side, or combined purposes.
 - Details can be found here: https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0
 - For more in-depth knowledge, refer to this YouTube link: https://www.youtube.com/watch?v=YwZdtLEtROA
-## 1 I've established a base code template, handling:
+## 1. I've established a base code template, handling:
 Regarding the project structure, it includes the following layers:
 Application
 Domain
 Infrastructure
-## 2 Concerning the UI project structure:
+## 2. Concerning the UI project structure:
 + Blazor Server (WebUi)
 + Blazor Client (WebUi.Client)
 + Shared
-## 3 Regarding the Unit test project structure:
+## 3. Regarding the Unit test project structure:
 + Application.IntegrationTests
 + Application.UnitTests
 + Domain.UnitTests
@@ -36,8 +36,9 @@ Infrastructure
 + User management: user registration, user authorization, role-based authorization, group-based authorization, and displaying detailed user information using Microsoft.AspNetCore.Identity library.
 + Todo list creation.
 + Loading weather information.
-For technical details, feel free to explore the code, and if there are any questions or uncertainties, don't hesitate to discuss with me. Thank you for reading my sharing.
-Additionally, you can explore FullStackHero, an open-source framework for modern web applications: https://fullstackhero.net/
+For technical details, feel free to explore the code, and if there are any questions or uncertainties, don't hesitate to discuss with me.
+# Thank you for reading my sharing.
+- Additionally, you can explore FullStackHero, an open-source framework for modern web applications: https://fullstackhero.net/
 
 ## Developed by HoaiPhong
 
