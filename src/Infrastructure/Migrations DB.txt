@@ -1,0 +1,8 @@
+﻿Create by HoaiPhong [2024/05/20]
+Document :https://learn.microsoft.com/en-us/ef/core/cli/dotnet
+=>Cd into the directory then initialize a new DB
+1.cd src\Infrastructure
+1.dotnet ef migrations add "Initial" --startup-project ..\WebUi\WebUi --context ApplicationDbContext --output-dir Data\Migrations
+
+=> Update
+1.dotnet ef migrations update --startup-project ..\WebUi\WebUi --context ApplicationDbContext --output-dir Data\Migrations
